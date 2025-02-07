@@ -65,4 +65,4 @@ Create a **To-Do List Application** where users can **add, update, delete, and m
 
 ---
 
-### **⏳ Deadline**: _(08-02-2025)_  
+### **⏳ Deadline**: _(08-02-2025 11:00 AM)_  
