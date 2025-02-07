@@ -50,8 +50,6 @@ Create a **Student Dashboard** where users can **Add, Edit, Delete, and View** s
 ### **📌 Submission Requirements**
 - **GitHub Repository** with both frontend and backend code.
 - **README.md** explaining setup instructions.
-- **Working API documentation (Swagger UI available in FastAPI by default).**
-
 ---
 
 ### **🔗 Example Endpoints**
