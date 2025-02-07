@@ -65,4 +65,4 @@ Create a **Student Dashboard** where users can **Add, Edit, Delete, and View** s
 
 ---
 
-### **⏳ Deadline**: _(Friday 07-02-2025)_
+### **⏳ Deadline**: _(Friday 07-02-2025 11:00AM)_
