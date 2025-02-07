@@ -66,4 +66,3 @@ Create a **To-Do List Application** where users can **add, update, delete, and m
 ---
 
 ### **⏳ Deadline**: _(08-02-2025)_  
-Let me know if you need sample starter code! 🚀
