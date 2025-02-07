@@ -12,9 +12,9 @@ Create a **To-Do List Application** where users can **add, update, delete, and m
 2. **CRUD API Endpoints:**
    - **Create a Task** (`POST /tasks/`)
    - **Read all Tasks** (`GET /tasks/`)
-   - **Read a single Task** (`GET /tasks/{name}`)
-   - **Update a Task** (`PUT /tasks/{name}`)
-   - **Delete a Task** (`DELETE /tasks/{name}`)
+   - **Read a single Task** (`GET /tasks/{title}`)
+   - **Update a Task** (`PUT /tasks/{title}`)
+   - **Delete a Task** (`DELETE /tasks/{title}`)
 3. **Task Model:**
    - `id`: Unique identifier (Auto-increment)
    - `title`: String (Required)
@@ -58,10 +58,10 @@ Create a **To-Do List Application** where users can **add, update, delete, and m
 | Method | Endpoint       | Description            |
 |--------|---------------|------------------------|
 | GET    | `/tasks/`      | Get all tasks         |
-| GET    | `/tasks/{name}`  | Get a task by ID      |
+| GET    | `/tasks/{title}`  | Get a task by ID      |
 | POST   | `/tasks/`      | Add a new task        |
-| PUT    | `/tasks/{name}`  | Update task info      |
-| DELETE | `/tasks/{name}`  | Remove a task         |
+| PUT    | `/tasks/{title}`  | Update task info      |
+| DELETE | `/tasks/{title}`  | Remove a task         |
 
 ---
 
