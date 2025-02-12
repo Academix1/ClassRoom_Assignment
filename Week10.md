@@ -8,11 +8,6 @@ Below are ten industries with relevant database contexts:
 3. **Banking & Finance** - Transactional and Customer Data
 4. **Education** - Student Records and Course Management
 5. **Social Media** - User Profiles and Interaction Data
-6. **Logistics & Supply Chain** - Inventory and Shipment Tracking
-7. **Real Estate** - Property Listings and Client Management
-8. **Entertainment & Media** - Streaming and Subscription Services
-9. **Manufacturing** - Production and Supply Databases
-10. **Hospitality** - Hotel and Reservation Management
 
 ---
 
